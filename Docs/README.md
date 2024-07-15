@@ -1,5 +1,6 @@
 # Mutation testing en C# avec Stryker.NET
 
+> pour lire correctement ce readme installer l'extension "[Markdown Editor v2](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor2)"
 
 ## Introduction
 Le but des tests de mutation est de tester nos tests unitaires. 
@@ -16,7 +17,8 @@ par exemple
 ```
 
 
-## Sources
--[Mutation Testing with Stryker](https://engincanv.github.io/c%23/.net/stryker/2024/02/10/mutation-testing-in-c-sharp-with-stryker.html)
+![Killed 01](killed_01.png)
 
--[GitHub Stryker](https://stryker-mutator.io/docs/stryker-net/introduction/)
+## Sources
+* [Mutation Testing with Stryker](https://engincanv.github.io/c%23/.net/stryker/2024/02/10/mutation-testing-in-c-sharp-with-stryker.html)
+* [GitHub Stryker](https://stryker-mutator.io/docs/stryker-net/introduction/)
