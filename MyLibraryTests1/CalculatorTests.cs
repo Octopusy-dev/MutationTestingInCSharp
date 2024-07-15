@@ -8,6 +8,7 @@ namespace MyLibrary.Tests
     {
         [Theory]
         [InlineData(1, 0, 1)]
+        //[InlineData(1, 1, 2)]
         public void Sum(int number1, int number2, int expected)
         {
             Calculator.Sum(number1, number2).Should().Be(expected);
